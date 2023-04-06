@@ -1,9 +1,10 @@
 # 2023NigerianElections
- Analysed Twitter Data for the 2023 Nigerian Presidential Election using NLP, Machine Learning
 
 How I Analysed Twitter Data for the 2023 Nigerian Presidential Election using Machine Learning
 
-In this article, I will discuss an experiment I conducted on the 2023 Nigerian Presidential election using Twitter data and machine learning.
+Group of people mostly youths protested against the outcome of the 2023 Presidential election, as Former Lagos governor Bola Tinubu was declared the winner of Nigeria's 2023 presidential election. The defeated Nigerian candidates also vowed legal challenge.
+
+However, in this article, I will discuss an experiment I conducted on the 2023 Nigerian Presidential election using Twitter data and machine learning.
 
 I first obtained an academic license for the Twitter developer account and scrapped tweets in Abuja location, specifically the Twitter handle of the Independent National Electoral Commission (INEC) Nigeria, during the Presidential election results declaration on 2023-03-01. I imported libraries such as Tweepy, Textblob, and Word Cloud to analyze the tweets.
 
