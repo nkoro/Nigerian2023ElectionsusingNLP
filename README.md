@@ -12,3 +12,5 @@ Next, I cleaned the tweets by removing web links, emojis, symbols, and alphanume
 The results showed that neutral tweets were the highest at 58%, followed by positive tweets at 24%, and negative tweets at 17%. However, the classification task failed to correctly predict the sentiment of the tweets, as major citizens were not happy with the election outcome. This could be attributed to some Nigerian slangs and words falsely predicted by the machine learning classifiers.
 
 Many social media platforms like Twitter have become a vital tool for political engagement, especially during elections. The use of machine learning classifiers in analysing Twitter data provides a useful way of gaining insights into public opinion. However, as demonstrated in this experiment, I didn’t consider local context and language peculiarities when analysing social media data using machine learning.
+
+Please follow me on LinkedIn: https://www.linkedin.com/in/nkoro-ebuka-40b9a2160/ email: nkorochinaechetam@gmail.com
